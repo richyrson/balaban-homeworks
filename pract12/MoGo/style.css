@@ -1,0 +1,19 @@
+header{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.menu{
+    list-style: none;
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    color: 95e1d3;
+}
+
+.sub-tittle{
+    
+}
